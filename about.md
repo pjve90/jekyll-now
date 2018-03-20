@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+#Welcome!
 
-### More Information
+First version :P
 
-A place to include any other types of information that you'd like to include about yourself.
+### Things I like
+
+1. Movies
+2. Eating
+3. Traveling
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pjvarase@gmail.com](mailto:pjvarase@gmail.com)
