@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#Welcome!
+# Welcome!
 
 First version :P
 
